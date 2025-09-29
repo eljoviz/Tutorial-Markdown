@@ -11,10 +11,10 @@
 1. Comenzamos pelando y cortando las patatas en laminas siempre homogéneas. De esta manera se va a pochar de manera perfecta.
 
 2. Las ponemos en una sartén con aceite de que las cubra y dejamos pochar a fuego medio bajo durante unos 30 minutos, dándole vueltas de vez en cuando para que no se pegue. 
-  
-                                               ![imagen paso 2](https://github.com/eljoviz/Tutorial-Markdown/blob/main/imagenes/mejor-patata-para-tortilla%202.jpg)
 
-3. Una vez cocinadas retiramos y reservamos.
+ ![imagen paso 2](https://github.com/eljoviz/Tutorial-Markdown/blob/main/imagenes/mejor-patata-para-tortilla%202.jpg)
+
+4. Una vez cocinadas retiramos y reservamos.
 
  ![imagen paso 3](https://github.com/eljoviz/Tutorial-Markdown/blob/main/imagenes/pochar-patata3.jpg)
 
@@ -41,3 +41,13 @@
 9. Cuajamos en una sartén antiadherente por ambos lados unos 45 segundos. El tiempo dependerá de lo cuajada que quieras la tortilla. Si te gusta blandita, con esos segundos te valdrá.
 
 ![imagen paso 9](https://github.com/eljoviz/Tutorial-Markdown/blob/main/imagenes/hacer-tortilla-con-cebolla9.jpg)
+
+<!--Enlace-del-que-se-saco-la-informacion-->
+
+[Recetas del señor](https://recetasdecocina.elmundo.es/2024/09/tortilla-de-patatas-con-cebolla-receta-facil.html)
+
+|Aspecto            | Detalle                          | Curiosidad |
+|:-----------------:|:--------------------------------:|:-------------------------------------:|
+|Origen             | España (siglo XIX aprox.)        | Se popularizó como comida humilde|
+|Variantes          | Con cebolla / sin cebolla        | Existe gran debate sobre cuál es la "auténtica"|
+|Consumo habitual   | Tapas, cenas, bocadillos         | Muy típica en bares y celebraciones|
