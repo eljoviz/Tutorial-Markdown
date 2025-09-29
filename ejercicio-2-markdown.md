@@ -12,7 +12,7 @@
 
 2. Las ponemos en una sartén con aceite de que las cubra y dejamos pochar a fuego medio bajo durante unos 30 minutos, dándole vueltas de vez en cuando para que no se pegue. 
   
- ![imagen paso 2](https://github.com/eljoviz/Tutorial-Markdown/blob/main/imagenes/mejor-patata-para-tortilla%202.jpg)
+                                               ![imagen paso 2](https://github.com/eljoviz/Tutorial-Markdown/blob/main/imagenes/mejor-patata-para-tortilla%202.jpg)
 
 3. Una vez cocinadas retiramos y reservamos.
 
