@@ -1,5 +1,5 @@
 # Receta tortilla de patatas.
-## Ingredientes:
+## *Ingredientes:*
 - 4 patatas.
 - 4 huevos. 
 - 1 yema de huevo.
@@ -7,7 +7,7 @@
 - Aceite de oliva virgen extra.
 - Sal.
  <!-- No borrar ningun ingrediente.-->
-## Preparación de la tortilla.
+## **Preparación de la tortilla.**
 1. Comenzamos pelando y cortando las patatas en laminas siempre homogéneas. De esta manera se va a pochar de manera perfecta.
 
 2. Las ponemos en una sartén con aceite de que las cubra y dejamos pochar a fuego medio bajo durante unos 30 minutos, dándole vueltas de vez en cuando para que no se pegue. 
